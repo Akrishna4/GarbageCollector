@@ -1,6 +1,4 @@
----
 
-```markdown
 # GarbageCollector
 
 A minimal **mark-and-sweep garbage collector** implemented in C.  
